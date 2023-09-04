@@ -12,7 +12,7 @@
  "modified": "2023-08-31 13:20:07.305282",
  "modified_by": "Administrator",
  "module": "test",
- "name": "Custom Report",
+ "name": "Total Stock Price",
  "owner": "Administrator",
  "prepared_report": 0,
  "ref_doctype": "Stock Entry",

@@ -2,7 +2,7 @@
 // For license information, please see license.txt
 /* eslint-disable */
 
-frappe.query_reports["Custom Report"] = {
+frappe.query_reports["Total Stock Price"] = {
 	"filters": [
 		{
 			"fieldname":"group_by",
