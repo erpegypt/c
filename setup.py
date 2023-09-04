@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
 from hagar import __version__ as version
 
 setup(
-	name="hagar",
+	name="connect",
 	version=version,
 	description="use to test",
 	author="test",
