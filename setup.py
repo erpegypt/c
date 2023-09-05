@@ -9,9 +9,9 @@ from hagar import __version__ as version
 setup(
 	name="connect",
 	version=version,
-	description="use to test",
-	author="test",
-	author_email="hagermossad80@gmail.com",
+	description="Sales Force",
+	author="connect",
+	author_email="t.algazzar@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
